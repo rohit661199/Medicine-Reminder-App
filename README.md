@@ -56,8 +56,8 @@ Before you begin, ensure you have met the following requirements:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/medico-app.git
-cd medico-app
+git clone https://github.com/rohit661199/Medicine-Reminder-App.git
+cd Medicine-Reminder-App
 ```
 
 ### 2. Install Dependencies
@@ -368,9 +368,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Nimesha**
-- Email: madubhashinimanusha@gmail.com
-- GitHub: (https://github.com/manushamadubhashini)
+**Rohit**
+- GitHub: (https://github.com/rohit661199)
 
 ## 🙏 Acknowledgments
 
@@ -383,13 +382,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help, please:
 
-1. Check the [Issues](https://github.com/your-username/medico-app/issues) page
+1. Check the [Issues](https://github.com/rohit661199/Medicine-Reminder-App/issues) page
 2. Create a new issue if your problem isn't already listed
-3. Contact the developer at madubhashinimanusha@gmail.com
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ by Manusha</p>
+  <p>Made with ❤️ by Rohit</p>
   <p>⭐ Star this repo if you find it helpful!</p>
 </div>
